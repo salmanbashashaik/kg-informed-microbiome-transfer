@@ -1,0 +1,29 @@
+# Knowledge Graph & R-GCN Configuration
+graph:
+  nodes_file: "data/kg/nodes_v06.tsv"
+  edges_file: "data/kg/edges_v06.tsv"
+  num_nodes: 2856
+  num_node_types: 15
+  num_relations: 23
+  capping:
+    encodes: 5000
+    associates_with: 5000
+    interacts_with: 5000
+    seed: 42
+
+rgcn:
+  hidden_dim: 256
+  out_dim: 256
+  num_bases: 30
+  num_layers: 2
+  decoder: "ComplEx"
+  dropout: 0.1
+  scale_normalization_gamma: 0.32
+
+training:
+  epochs: 375
+  lr: 0.001
+  weight_decay: 1e-5
+  negative_rate: 10
+  adversarial_temperature: 1.0
+  seed: 42

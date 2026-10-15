@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this software, models, or data in your research, please cite our IEEE BIBM 2026 paper."
+title: "Knowledge Graph-Informed Foundation Model for Microbiome-Cardiovascular Disease Classification"
+abstract: "We introduce a biologically grounded foundation model for human gut microbiome data that integrates a multi-relational biomedical knowledge graph into transformer pretraining via Relational Graph Convolutional Networks (R-GCN). Across cross-cohort transfer evaluations spanning Type 2 Diabetes and Cardiovascular Disease, knowledge graph pretraining improves cross-study transfer over random initialization in 7 of 8 cohort transfers."
+authors:
+  - family-names: "Basha"
+    given-names: "Shaik Salman"
+    affiliation: "University of Waterloo"
+  - family-names: "Shen"
+    given-names: "Ziting"
+    affiliation: "University of Waterloo"
+  - family-names: "Layton"
+    given-names: "Anita"
+    affiliation: "University of Waterloo"
+  - family-names: "Sun"
+    given-names: "Sun"
+    affiliation: "University of Waterloo"
+  - family-names: "Chen"
+    given-names: "Helen Hong"
+    affiliation: "University of Waterloo"
+preferred-citation:
+  type: conference-paper
+  title: "Knowledge Graph-Informed Foundation Model for Microbiome-Cardiovascular Disease Classification"
+  authors:
+    - family-names: "Basha"
+      given-names: "Shaik Salman"
+    - family-names: "Shen"
+      given-names: "Ziting"
+    - family-names: "Layton"
+      given-names: "Anita"
+    - family-names: "Sun"
+      given-names: "Sun"
+    - family-names: "Chen"
+      given-names: "Helen Hong"
+  conference:
+    name: "IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2026)"
+  year: 2026
+  status: accepted
+  notes: "Paper ID: B1518"
+repository-code: "https://github.com/salmanbashashaik/kg-informed-microbiome-transfer"
+keywords:
+  - "microbiome"
+  - "knowledge graph"
+  - "foundation model"
+  - "transfer learning"
+  - "cardiovascular disease"
+  - "type 2 diabetes"
+  - "relational graph convolutional network"
+  - "bioinformatics"
+license: "MIT"

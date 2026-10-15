@@ -1,0 +1,126 @@
+{
+  "pretrain_agp": {
+    "file_name": "agp_pretrain_binned_unified.tsv",
+    "source_path": "data/agp_pretrain_binned_unified.tsv",
+    "size_bytes": 24806255,
+    "size_mb": 23.66,
+    "sha256": "c631c148d402e1b83599d7c76e0e7d95a04fedd66f9ae6c5adaf82abb3aa550c",
+    "n_rows": 9511,
+    "n_cols": 1296,
+    "has_label": false
+  },
+  "pretrain_hmp": {
+    "file_name": "hmp_pretrain_binned_unified.tsv",
+    "source_path": "data/hmp_pretrain_binned_unified.tsv",
+    "size_bytes": 1965628,
+    "size_mb": 1.87,
+    "sha256": "d541a888d7eb4a12508b744f552fcf17d30b14cb5b8013b07f78a8ec4c446a02",
+    "n_rows": 748,
+    "n_cols": 1296,
+    "has_label": false
+  },
+  "pretrain_mgnify": {
+    "file_name": "mgnify_pretrain_binned_unified.tsv",
+    "source_path": "data/mgnify_pretrain_binned_unified.tsv",
+    "size_bytes": 5226837,
+    "size_mb": 4.98,
+    "sha256": "2492644c30bf8d027190af03d95beabc22f7573054e31b3c29bc079679d92577",
+    "n_rows": 2000,
+    "n_cols": 1296,
+    "has_label": false
+  },
+  "pretrain_shotgun_cMD": {
+    "file_name": "shotgun_pretrain_cleaned.csv",
+    "source_path": "data/shotgun_pretrain_cleaned.csv",
+    "size_bytes": 6904731,
+    "size_mb": 6.58,
+    "sha256": "f845efcb24d56275434d0e8e4b06d608d1228d8551c99516c16dd2f908c8c984",
+    "n_rows": 2996,
+    "n_cols": 264,
+    "has_label": false
+  },
+  "task_acvd": {
+    "file_name": "acvd_task.tsv",
+    "source_path": "data/acvd_task.tsv",
+    "size_bytes": 1024529,
+    "size_mb": 0.98,
+    "sha256": "295912951090ad2876e0f5c639c6b6ef706fc790cfea20e5f35fd95e1af0e876",
+    "n_rows": 385,
+    "n_cols": 1297,
+    "has_label": true,
+    "label_distribution": {
+      "1": 214,
+      "0": 171
+    }
+  },
+  "task_cvd_metacardis": {
+    "file_name": "cvd_metacardis_task.tsv",
+    "source_path": "data/cvd_metacardis_task.tsv",
+    "size_bytes": 271885,
+    "size_mb": 0.26,
+    "sha256": "abe8810658dcc774fb649093982a4f3cd4f9d6e0b4efaaf7392b485c3f89aa3b",
+    "n_rows": 599,
+    "n_cols": 219,
+    "has_label": true,
+    "label_distribution": {
+      "1": 365,
+      "0": 234
+    }
+  },
+  "task_t2d_qin": {
+    "file_name": "t2d_qin_task.tsv",
+    "source_path": "data/t2d_qin_task.tsv",
+    "size_bytes": 359522,
+    "size_mb": 0.34,
+    "sha256": "d8fda0118665217169b25af61ef9048c14f8397a42e5a4183ac253e6da0c8765",
+    "n_rows": 344,
+    "n_cols": 212,
+    "has_label": true,
+    "label_distribution": {
+      "0": 174,
+      "1": 170
+    }
+  },
+  "task_t2d_karlsson": {
+    "file_name": "t2d_karlsson_task.tsv",
+    "source_path": "data/t2d_karlsson_task.tsv",
+    "size_bytes": 86296,
+    "size_mb": 0.08,
+    "sha256": "2b99cd1ccc7cd5b96f144b61fde0697192e0b1cee46c260e982004f17d937476",
+    "n_rows": 96,
+    "n_cols": 166,
+    "has_label": true,
+    "label_distribution": {
+      "1": 53,
+      "0": 43
+    }
+  },
+  "task_t2d_metacardis": {
+    "file_name": "t2d_metacardis_task.tsv",
+    "source_path": "data/t2d_metacardis_task.tsv",
+    "size_bytes": 808046,
+    "size_mb": 0.77,
+    "sha256": "2078893b17a68daff068a4985adeb0dc232e5547e64670e9ce7cf22af7005e8b",
+    "n_rows": 783,
+    "n_cols": 219,
+    "has_label": true,
+    "label_distribution": {
+      "1": 549,
+      "0": 234
+    }
+  },
+  "task_t2d_merged_4cohort": {
+    "file_name": "t2d_task.tsv",
+    "source_path": "data/t2d_task.tsv",
+    "size_bytes": 3484853,
+    "size_mb": 3.32,
+    "sha256": "b6a60801b90db3a13cc948946cf4dd1bbedbae973a45089c29196dfbd8f7341f",
+    "n_rows": 1331,
+    "n_cols": 1297,
+    "has_label": true,
+    "label_distribution": {
+      "1": 851,
+      "0": 480
+    }
+  }
+}

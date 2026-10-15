@@ -1,0 +1,2540 @@
+{
+  "Abiotrophia": {
+    "phylum": "Bacillota",
+    "family": "Aerococcaceae"
+  },
+  "Absiella": {},
+  "Acanthopleuribacteraceae": {
+    "family": "Acanthopleuribacteraceae",
+    "phylum": "Acidobacteriota"
+  },
+  "Acaryochloridaceae": {
+    "family": "Acaryochloridaceae",
+    "phylum": "Cyanobacteriota"
+  },
+  "Acetobacteraceae": {
+    "family": "Acetobacteraceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Acholeplasmataceae": {
+    "family": "Acholeplasmataceae",
+    "phylum": "Mycoplasmatota"
+  },
+  "Achromobacter": {
+    "phylum": "Pseudomonadota",
+    "family": "Alcaligenaceae"
+  },
+  "Acidaminococcaceae": {
+    "family": "Acidaminococcaceae",
+    "phylum": "Bacillota"
+  },
+  "Acidaminococcus": {
+    "phylum": "Bacillota",
+    "family": "Acidaminococcaceae"
+  },
+  "Acidiferrobacteraceae": {
+    "family": "Acidiferrobacteraceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Acidimicrobiaceae": {
+    "family": "Acidimicrobiaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Acidithiobacillaceae": {
+    "family": "Acidithiobacillaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Acidobacteriaceae": {
+    "family": "Acidobacteriaceae",
+    "phylum": "Acidobacteriota"
+  },
+  "Acidothermaceae": {
+    "family": "Acidothermaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Acinetobacter": {
+    "phylum": "Pseudomonadota",
+    "family": "Moraxellaceae"
+  },
+  "Actinobaculum": {
+    "phylum": "Actinomycetota",
+    "family": "Actinomycetaceae"
+  },
+  "Actinomyces": {
+    "phylum": "Actinomycetota",
+    "family": "Actinomycetaceae"
+  },
+  "Actinomycetaceae": {
+    "family": "Actinomycetaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Actinopolysporaceae": {
+    "family": "Actinopolysporaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Actinospicaceae": {
+    "family": "Actinospicaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Actinotignum": {
+    "phylum": "Actinomycetota",
+    "family": "Actinomycetaceae"
+  },
+  "Adlercreutzia": {
+    "phylum": "Actinomycetota",
+    "family": "Eggerthellaceae"
+  },
+  "Aeriscardovia": {
+    "phylum": "Actinomycetota",
+    "family": "Bifidobacteriaceae"
+  },
+  "Aerococcaceae": {
+    "family": "Aerococcaceae",
+    "phylum": "Bacillota"
+  },
+  "Aeromonadaceae": {
+    "family": "Aeromonadaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Aeromonas": {
+    "phylum": "Pseudomonadota",
+    "family": "Aeromonadaceae"
+  },
+  "Agaricostilbaceae": {
+    "family": "Agaricostilbaceae",
+    "phylum": "Basidiomycota"
+  },
+  "Agathobaculum": {
+    "phylum": "Bacillota",
+    "family": "Butyricicoccaceae"
+  },
+  "Aggregatibacter": {
+    "phylum": "Pseudomonadota",
+    "family": "Pasteurellaceae"
+  },
+  "Akkermansia": {
+    "phylum": "Verrucomicrobiota",
+    "family": "Akkermansiaceae"
+  },
+  "Akkermansiaceae": {
+    "family": "Akkermansiaceae",
+    "phylum": "Verrucomicrobiota"
+  },
+  "Albuginaceae": {
+    "family": "Albuginaceae",
+    "phylum": "Oomycota"
+  },
+  "Alcaligenaceae": {
+    "family": "Alcaligenaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Alcanivoracaceae": {
+    "family": "Alcanivoracaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Aliarcobacter": {
+    "phylum": "Campylobacterota",
+    "family": "Arcobacteraceae"
+  },
+  "Alicyclobacillaceae": {
+    "family": "Alicyclobacillaceae",
+    "phylum": "Bacillota"
+  },
+  "Alistipes": {
+    "phylum": "Bacteroidota",
+    "family": "Rikenellaceae"
+  },
+  "Allisonella": {},
+  "Alloprevotella": {
+    "phylum": "Bacteroidota",
+    "family": "Prevotellaceae"
+  },
+  "Alloscardovia": {
+    "phylum": "Actinomycetota",
+    "family": "Bifidobacteriaceae"
+  },
+  "Alteromonadaceae": {
+    "family": "Alteromonadaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Amedibacillus": {
+    "phylum": "Bacillota",
+    "family": "Erysipelotrichaceae"
+  },
+  "Anaerobiospirillum": {
+    "phylum": "Pseudomonadota",
+    "family": "Succinivibrionaceae"
+  },
+  "Anaerobutyricum": {
+    "phylum": "Bacillota",
+    "family": "Lachnospiraceae"
+  },
+  "Anaerococcus": {
+    "phylum": "Bacillota",
+    "family": "Peptoniphilaceae"
+  },
+  "Anaerofilum": {
+    "phylum": "Bacillota",
+    "family": "Oscillospiraceae"
+  },
+  "Anaerofustis": {
+    "phylum": "Bacillota",
+    "family": "Eubacteriaceae"
+  },
+  "Anaeroglobus": {},
+  "Anaerolineaceae": {
+    "family": "Anaerolineaceae",
+    "phylum": "Chloroflexota"
+  },
+  "Anaeromassilibacillus": {
+    "phylum": "Bacillota",
+    "family": "Acutalibacteraceae"
+  },
+  "Anaeromyxobacteraceae": {
+    "family": "Anaeromyxobacteraceae",
+    "phylum": "Myxococcota"
+  },
+  "Anaeroplasmataceae": {
+    "family": "Anaeroplasmataceae",
+    "phylum": "Mycoplasmatota"
+  },
+  "Anaerostipes": {
+    "phylum": "Bacillota",
+    "family": "Lachnospiraceae"
+  },
+  "Anaerotignum": {
+    "phylum": "Bacillota",
+    "family": "Anaerotignaceae"
+  },
+  "Anaerotruncus": {
+    "phylum": "Bacillota",
+    "family": "Oscillospiraceae"
+  },
+  "Anaplasmataceae": {
+    "family": "Anaplasmataceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Aquificaceae": {
+    "family": "Aquificaceae",
+    "phylum": "Aquificota"
+  },
+  "Archangiaceae": {
+    "family": "Archangiaceae",
+    "phylum": "Myxococcota"
+  },
+  "Arcobacter": {
+    "phylum": "Campylobacterota",
+    "family": "Arcobacteraceae"
+  },
+  "Ardenticatenaceae": {
+    "family": "Ardenticatenaceae",
+    "phylum": "Chloroflexota"
+  },
+  "Arenicellaceae": {
+    "family": "Arenicellaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Armatimonadaceae": {
+    "family": "Armatimonadaceae",
+    "phylum": "Armatimonadota"
+  },
+  "Asaccharobacter": {
+    "phylum": "Actinomycetota",
+    "family": "Eggerthellaceae"
+  },
+  "Atlantibacter": {
+    "phylum": "Pseudomonadota",
+    "family": "Enterobacteriaceae"
+  },
+  "Atopobiaceae": {
+    "family": "Atopobiaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Atopobium": {
+    "phylum": "Actinomycetota",
+    "family": "Atopobiaceae"
+  },
+  "Aurantimonadaceae": {
+    "family": "Aurantimonadaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Avibacterium": {
+    "phylum": "Pseudomonadota",
+    "family": "Pasteurellaceae"
+  },
+  "Azonexaceae": {
+    "family": "Azonexaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Bacillaceae": {
+    "family": "Bacillaceae",
+    "phylum": "Bacillota"
+  },
+  "Bacillales_Family_X._Incertae_Sedis": {},
+  "Bacillus": {
+    "phylum": "Arthropoda",
+    "family": "Bacillidae"
+  },
+  "Bacteriovoracaceae": {
+    "family": "Bacteriovoracaceae",
+    "phylum": "Bdellovibrionota"
+  },
+  "Bacteroidaceae": {
+    "family": "Bacteroidaceae",
+    "phylum": "Bacteroidota"
+  },
+  "Bacteroidales_unclassified": {},
+  "Bacteroides": {
+    "phylum": "Bacteroidota",
+    "family": "Bacteroidaceae"
+  },
+  "Balneolaceae": {
+    "family": "Balneolaceae",
+    "phylum": "Balneolota"
+  },
+  "Barnesiella": {
+    "phylum": "Bacteroidota",
+    "family": "Barnesiellaceae"
+  },
+  "Barnesiellaceae": {
+    "family": "Barnesiellaceae",
+    "phylum": "Bacteroidota"
+  },
+  "Bartonellaceae": {
+    "family": "Bartonellaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Bdellovibrionaceae": {},
+  "Beijerinckiaceae": {
+    "family": "Beijerinckiaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Beutenbergiaceae": {
+    "family": "Beutenbergiaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Bifidobacteriaceae": {
+    "family": "Bifidobacteriaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Bifidobacterium": {
+    "phylum": "Actinomycetota",
+    "family": "Bifidobacteriaceae"
+  },
+  "Bilophila": {
+    "phylum": "Thermodesulfobacteriota",
+    "family": "Desulfovibrionaceae"
+  },
+  "Blastocystis": {
+    "family": "Blastocystidae"
+  },
+  "Blattabacteriaceae": {
+    "family": "Blattabacteriaceae",
+    "phylum": "Bacteroidota"
+  },
+  "Blautia": {
+    "phylum": "Bacillota",
+    "family": "Lachnospiraceae"
+  },
+  "Bogoriellaceae": {},
+  "Bosea": {
+    "phylum": "Streptophyta",
+    "family": "Amaranthaceae"
+  },
+  "Brachyspira": {
+    "phylum": "Spirochaetota",
+    "family": "Brachyspiraceae"
+  },
+  "Brachyspiraceae": {
+    "family": "Brachyspiraceae",
+    "phylum": "Spirochaetota"
+  },
+  "Bradyrhizobiaceae": {},
+  "Brevibacteriaceae": {
+    "family": "Brevibacteriaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Brevibacterium": {
+    "phylum": "Actinomycetota",
+    "family": "Brevibacteriaceae"
+  },
+  "Brucellaceae": {
+    "family": "Brucellaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Bryobacteraceae": {
+    "family": "Bryobacteraceae",
+    "phylum": "Acidobacteriota"
+  },
+  "Budviciaceae": {
+    "family": "Budviciaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Bulleribasidiaceae": {
+    "family": "Bulleribasidiaceae",
+    "phylum": "Basidiomycota"
+  },
+  "Burkholderiaceae": {
+    "family": "Burkholderiaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Butyricicoccus": {
+    "phylum": "Bacillota",
+    "family": "Butyricicoccaceae"
+  },
+  "Butyricimonas": {
+    "phylum": "Bacteroidota",
+    "family": "Odoribacteraceae"
+  },
+  "Butyrivibrio": {
+    "phylum": "Bacillota",
+    "family": "Lachnospiraceae"
+  },
+  "Caldicoprobacteraceae": {
+    "family": "Caldicoprobacteraceae",
+    "phylum": "Bacillota"
+  },
+  "Caldilineaceae": {
+    "family": "Caldilineaceae",
+    "phylum": "Chloroflexota"
+  },
+  "Calditrichaceae": {
+    "family": "Calditrichaceae",
+    "phylum": "Calditrichota"
+  },
+  "Campylobacter": {
+    "phylum": "Campylobacterota",
+    "family": "Campylobacteraceae"
+  },
+  "Campylobacteraceae": {
+    "family": "Campylobacteraceae",
+    "phylum": "Campylobacterota"
+  },
+  "Candidatus_Actinomarinaceae": {
+    "family": "Candidatus Actinomarinaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Candidatus_Gastranaerophilales_unclassified": {},
+  "Candidatus_Methanomethylophilus": {},
+  "Candidatus_Paracaedibacteraceae": {
+    "family": "Candidatus Paracaedibacteraceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Candidatus_Stoquefichus": {
+    "phylum": "Bacillota",
+    "family": "Erysipelotrichaceae"
+  },
+  "Cardiobacteriaceae": {
+    "family": "Cardiobacteriaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Cardiobacterium": {
+    "phylum": "Pseudomonadota",
+    "family": "Cardiobacteriaceae"
+  },
+  "Carnobacteriaceae": {
+    "family": "Carnobacteriaceae",
+    "phylum": "Bacillota"
+  },
+  "Carnobacterium": {
+    "phylum": "Bacillota",
+    "family": "Carnobacteriaceae"
+  },
+  "Catabacter": {},
+  "Catalimonadaceae": {
+    "family": "Catalimonadaceae",
+    "phylum": "Bacteroidota"
+  },
+  "Catenibacterium": {
+    "phylum": "Bacillota",
+    "family": "Coprobacillaceae"
+  },
+  "Catenulisporaceae": {
+    "family": "Catenulisporaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Caulobacteraceae": {
+    "family": "Caulobacteraceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Celerinatantimonadaceae": {
+    "family": "Celerinatantimonadaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Cellulomonadaceae": {
+    "family": "Cellulomonadaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Cellvibrionaceae": {
+    "family": "Cellvibrionaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Cercomonadidae": {
+    "family": "Cercomonadidae",
+    "phylum": "Cercozoa"
+  },
+  "Cetobacterium": {
+    "phylum": "Fusobacteriota",
+    "family": "Fusobacteriaceae"
+  },
+  "Chelatococcaceae": {
+    "family": "Chelatococcaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Chitinivibrionaceae": {
+    "family": "Chitinivibrionaceae",
+    "phylum": "Fibrobacterota"
+  },
+  "Chitinophagaceae": {
+    "family": "Chitinophagaceae",
+    "phylum": "Bacteroidota"
+  },
+  "Chlamydia": {
+    "phylum": "Chlamydiota",
+    "family": "Chlamydiaceae"
+  },
+  "Chlamydiaceae": {
+    "family": "Chlamydiaceae",
+    "phylum": "Chlamydiota"
+  },
+  "Chlamydomonadaceae": {
+    "family": "Chlamydomonadaceae",
+    "phylum": "Chlorophyta"
+  },
+  "Chloroflexaceae": {
+    "family": "Chloroflexaceae",
+    "phylum": "Chloroflexota"
+  },
+  "Christensenella": {
+    "phylum": "Bacillota",
+    "family": "Christensenellaceae"
+  },
+  "Christensenellaceae": {
+    "family": "Christensenellaceae",
+    "phylum": "Bacillota"
+  },
+  "Chromatiaceae": {
+    "family": "Chromatiaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Chromobacteriaceae": {
+    "family": "Chromobacteriaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Chroococcidiopsidaceae": {
+    "family": "Chroococcidiopsidaceae",
+    "phylum": "Cyanobacteriota"
+  },
+  "Chthoniobacteraceae": {
+    "family": "Chthoniobacteraceae",
+    "phylum": "Verrucomicrobiota"
+  },
+  "Chthonomonadaceae": {
+    "family": "Chthonomonadaceae",
+    "phylum": "Armatimonadota"
+  },
+  "Citrobacter": {
+    "phylum": "Pseudomonadota",
+    "family": "Enterobacteriaceae"
+  },
+  "Cloacibacillus": {
+    "phylum": "Synergistota",
+    "family": "Synergistaceae"
+  },
+  "Clostridiaceae": {
+    "family": "Clostridiaceae",
+    "phylum": "Bacillota"
+  },
+  "Clostridiales_Family_XII._Incertae_Sedis": {},
+  "Clostridiales_Family_XIII._Incertae_Sedis": {},
+  "Clostridiales_Family_XIII_Incertae_Sedis_unclassified": {},
+  "Clostridiales_Family_XVI._Incertae_Sedis": {
+    "family": "Clostridiales Family XVI. Incertae Sedis",
+    "phylum": "Bacillota"
+  },
+  "Clostridiales_Family_XVII._Incertae_Sedis": {
+    "family": "Clostridiales Family XVII. Incertae Sedis",
+    "phylum": "Bacillota"
+  },
+  "Clostridiales_unclassified": {},
+  "Clostridioides": {
+    "phylum": "Bacillota",
+    "family": "Peptostreptococcaceae"
+  },
+  "Clostridium": {
+    "phylum": "Bacillota",
+    "family": "Clostridiaceae"
+  },
+  "Cohaesibacteraceae": {
+    "family": "Cohaesibacteraceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Coleofasciculaceae": {
+    "family": "Coleofasciculaceae",
+    "phylum": "Cyanobacteriota"
+  },
+  "Collinsella": {
+    "phylum": "Actinomycetota",
+    "family": "Coriobacteriaceae"
+  },
+  "Colpodellidae": {},
+  "Colwelliaceae": {
+    "family": "Colwelliaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Comamonadaceae": {
+    "family": "Comamonadaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Comamonas": {
+    "phylum": "Pseudomonadota",
+    "family": "Comamonadaceae"
+  },
+  "Companilactobacillus": {
+    "phylum": "Bacillota",
+    "family": "Lactobacillaceae"
+  },
+  "Competibacteraceae": {},
+  "Conexibacteraceae": {
+    "family": "Conexibacteraceae",
+    "phylum": "Actinomycetota"
+  },
+  "Coprobacillus": {
+    "phylum": "Bacillota",
+    "family": "Coprobacillaceae"
+  },
+  "Coprobacter": {
+    "phylum": "Bacteroidota",
+    "family": "Barnesiellaceae"
+  },
+  "Coprococcus": {
+    "phylum": "Bacillota",
+    "family": "Lachnospiraceae"
+  },
+  "Coriobacteriaceae": {
+    "family": "Coriobacteriaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Corynebacteriaceae": {
+    "family": "Corynebacteriaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Corynebacterium": {
+    "phylum": "Actinomycetota",
+    "family": "Corynebacteriaceae"
+  },
+  "Coxiellaceae": {
+    "family": "Coxiellaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Crenotrichaceae": {
+    "family": "Crenotrichaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Criblamydiaceae": {},
+  "Criibacterium": {
+    "phylum": "Bacillota",
+    "family": "Filifactoraceae"
+  },
+  "Crocinitomicaceae": {
+    "family": "Crocinitomicaceae",
+    "phylum": "Bacteroidota"
+  },
+  "Cronobacter": {
+    "phylum": "Pseudomonadota",
+    "family": "Enterobacteriaceae"
+  },
+  "Cryomorphaceae": {
+    "family": "Cryomorphaceae",
+    "phylum": "Bacteroidota"
+  },
+  "Cryptosporangiaceae": {
+    "family": "Cryptosporangiaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Cutibacterium": {
+    "phylum": "Actinomycetota",
+    "family": "Propionibacteriaceae"
+  },
+  "Cyclobacteriaceae": {
+    "family": "Cyclobacteriaceae",
+    "phylum": "Bacteroidota"
+  },
+  "Cystofilobasidiaceae": {
+    "family": "Cystofilobasidiaceae",
+    "phylum": "Basidiomycota"
+  },
+  "Cytophagaceae": {
+    "family": "Cytophagaceae",
+    "phylum": "Bacteroidota"
+  },
+  "Defluviitaleaceae": {
+    "family": "Defluviitaleaceae",
+    "phylum": "Bacillota"
+  },
+  "Deinococcaceae": {
+    "family": "Deinococcaceae",
+    "phylum": "Deinococcota"
+  },
+  "Dellaglioa": {
+    "phylum": "Bacillota",
+    "family": "Lactobacillaceae"
+  },
+  "Demequinaceae": {
+    "family": "Demequinaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Denitrobacterium": {
+    "phylum": "Actinomycetota",
+    "family": "Eggerthellaceae"
+  },
+  "Dermabacteraceae": {
+    "family": "Dermabacteraceae",
+    "phylum": "Actinomycetota"
+  },
+  "Dermacoccaceae": {
+    "family": "Dermacoccaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Dermatophilaceae": {
+    "family": "Dermatophilaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Desulfarculaceae": {
+    "family": "Desulfarculaceae",
+    "phylum": "Thermodesulfobacteriota"
+  },
+  "Desulfobacteraceae": {
+    "family": "Desulfobacteraceae",
+    "phylum": "Thermodesulfobacteriota"
+  },
+  "Desulfobulbaceae": {
+    "family": "Desulfobulbaceae",
+    "phylum": "Thermodesulfobacteriota"
+  },
+  "Desulfomicrobiaceae": {
+    "family": "Desulfomicrobiaceae",
+    "phylum": "Thermodesulfobacteriota"
+  },
+  "Desulfovibrio": {
+    "phylum": "Thermodesulfobacteriota",
+    "family": "Desulfovibrionaceae"
+  },
+  "Desulfovibrionaceae": {
+    "family": "Desulfovibrionaceae",
+    "phylum": "Thermodesulfobacteriota"
+  },
+  "Desulfovibrionaceae_unclassified": {},
+  "Desulfuromonadaceae": {
+    "family": "Desulfuromonadaceae",
+    "phylum": "Thermodesulfobacteriota"
+  },
+  "Dialister": {
+    "phylum": "Bacillota",
+    "family": "Veillonellaceae"
+  },
+  "Dickeya": {
+    "phylum": "Pseudomonadota",
+    "family": "Pectobacteriaceae"
+  },
+  "Dielma": {
+    "phylum": "Bacillota",
+    "family": "Erysipelotrichaceae"
+  },
+  "Dietziaceae": {
+    "family": "Dietziaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Dorea": {
+    "phylum": "Bacillota",
+    "family": "Lachnospiraceae"
+  },
+  "Duncaniella": {
+    "phylum": "Bacteroidota",
+    "family": "Muribaculaceae"
+  },
+  "Dysgonamonadaceae": {},
+  "Dysgonomonas": {
+    "phylum": "Bacteroidota",
+    "family": "Dysgonomonadaceae"
+  },
+  "Ectothiorhodospiraceae": {
+    "family": "Ectothiorhodospiraceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Eggerthella": {
+    "phylum": "Actinomycetota",
+    "family": "Eggerthellaceae"
+  },
+  "Eggerthellaceae": {
+    "family": "Eggerthellaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Eggerthia": {
+    "phylum": "Bacillota",
+    "family": "Coprobacillaceae"
+  },
+  "Egibacteraceae": {
+    "family": "Egibacteraceae",
+    "phylum": "Actinomycetota"
+  },
+  "Egicoccaceae": {
+    "family": "Egicoccaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Eikenella": {
+    "phylum": "Pseudomonadota",
+    "family": "Neisseriaceae"
+  },
+  "Eisenbergiella": {
+    "phylum": "Bacillota",
+    "family": "Lachnospiraceae"
+  },
+  "Elusimicrobiaceae": {
+    "family": "Elusimicrobiaceae",
+    "phylum": "Elusimicrobiota"
+  },
+  "Endozoicomonaceae": {},
+  "Enhydrobacter": {
+    "phylum": "Pseudomonadota"
+  },
+  "Enorma": {
+    "phylum": "Actinomycetota",
+    "family": "Coriobacteriaceae"
+  },
+  "Entamoeba": {
+    "phylum": "Evosea",
+    "family": "Entamoebidae"
+  },
+  "Enterobacter": {
+    "phylum": "Pseudomonadota",
+    "family": "Enterobacteriaceae"
+  },
+  "Enterobacteriaceae": {
+    "family": "Enterobacteriaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Enterocloster": {
+    "phylum": "Bacillota",
+    "family": "Lachnospiraceae"
+  },
+  "Enterococcaceae": {
+    "family": "Enterococcaceae",
+    "phylum": "Bacillota"
+  },
+  "Enterococcus": {
+    "phylum": "Bacillota",
+    "family": "Enterococcaceae"
+  },
+  "Enterorhabdus": {
+    "phylum": "Actinomycetota",
+    "family": "Eggerthellaceae"
+  },
+  "Erwiniaceae": {
+    "family": "Erwiniaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Erysipelatoclostridium": {},
+  "Erysipelothrix": {
+    "phylum": "Bacillota",
+    "family": "Erysipelotrichaceae"
+  },
+  "Erysipelotrichaceae": {
+    "family": "Erysipelotrichaceae",
+    "phylum": "Bacillota"
+  },
+  "Erythrobacteraceae": {
+    "family": "Erythrobacteraceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Escherichia": {
+    "phylum": "Pseudomonadota",
+    "family": "Enterobacteriaceae"
+  },
+  "Eubacteriaceae": {
+    "family": "Eubacteriaceae",
+    "phylum": "Bacillota"
+  },
+  "Eubacteriaceae_unclassified": {},
+  "Eubacterium": {
+    "phylum": "Bacillota",
+    "family": "Eubacteriaceae"
+  },
+  "Euzebyaceae": {
+    "family": "Euzebyaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Exobasidiaceae": {
+    "family": "Exobasidiaceae",
+    "phylum": "Basidiomycota"
+  },
+  "Ezakiella": {
+    "phylum": "Bacillota"
+  },
+  "Fabaceae": {
+    "family": "Fabaceae",
+    "phylum": "Streptophyta"
+  },
+  "Facklamia": {
+    "phylum": "Bacillota",
+    "family": "Aerococcaceae"
+  },
+  "Faecalibacterium": {
+    "phylum": "Bacillota",
+    "family": "Oscillospiraceae"
+  },
+  "Faecalibaculum": {
+    "phylum": "Bacillota",
+    "family": "Erysipelotrichaceae"
+  },
+  "Faecalicatena": {
+    "phylum": "Bacillota",
+    "family": "Lachnospiraceae"
+  },
+  "Faecalicoccus": {
+    "phylum": "Bacillota",
+    "family": "Erysipelotrichaceae"
+  },
+  "Faecalitalea": {
+    "phylum": "Bacillota",
+    "family": "Erysipelotrichaceae"
+  },
+  "Fannyhessea": {
+    "phylum": "Actinomycetota",
+    "family": "Atopobiaceae"
+  },
+  "Ferrimonadaceae": {
+    "family": "Ferrimonadaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Ferritrophicaceae": {
+    "family": "Ferritrophicaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Ferrovaceae": {
+    "family": "Ferrovaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Fervidobacteriaceae": {
+    "family": "Fervidobacteriaceae",
+    "phylum": "Thermotogota"
+  },
+  "Fibrobacteraceae": {
+    "family": "Fibrobacteraceae",
+    "phylum": "Fibrobacterota"
+  },
+  "Filobasidiaceae": {
+    "family": "Filobasidiaceae",
+    "phylum": "Basidiomycota"
+  },
+  "Fimbriimonadaceae": {
+    "family": "Fimbriimonadaceae",
+    "phylum": "Armatimonadota"
+  },
+  "Finegoldia": {
+    "phylum": "Bacillota",
+    "family": "Peptoniphilaceae"
+  },
+  "Firmicutes_unclassified": {},
+  "Flammeovirgaceae": {
+    "family": "Flammeovirgaceae",
+    "phylum": "Bacteroidota"
+  },
+  "Flavobacteriaceae": {
+    "family": "Flavobacteriaceae",
+    "phylum": "Bacteroidota"
+  },
+  "Flavonifractor": {
+    "phylum": "Bacillota",
+    "family": "Oscillospiraceae"
+  },
+  "Frankiaceae": {
+    "family": "Frankiaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Fretibacterium": {
+    "phylum": "Synergistota",
+    "family": "Aminobacteriaceae"
+  },
+  "Fructilactobacillus": {
+    "phylum": "Bacillota",
+    "family": "Lactobacillaceae"
+  },
+  "Fusicatenibacter": {
+    "phylum": "Bacillota",
+    "family": "Lachnospiraceae"
+  },
+  "Fusobacteriaceae": {
+    "family": "Fusobacteriaceae",
+    "phylum": "Fusobacteriota"
+  },
+  "Fusobacterium": {
+    "phylum": "Fusobacteriota",
+    "family": "Fusobacteriaceae"
+  },
+  "Gaiellaceae": {
+    "family": "Gaiellaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Gallionellaceae": {
+    "family": "Gallionellaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Gardnerella": {
+    "phylum": "Actinomycetota",
+    "family": "Bifidobacteriaceae"
+  },
+  "Gemella": {
+    "phylum": "Bacillota",
+    "family": "Gemellaceae"
+  },
+  "Geminicoccaceae": {
+    "family": "Geminicoccaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Gemmataceae": {
+    "family": "Gemmataceae",
+    "phylum": "Planctomycetota"
+  },
+  "Gemmatimonadaceae": {
+    "family": "Gemmatimonadaceae",
+    "phylum": "Gemmatimonadota"
+  },
+  "Gemmiger": {
+    "phylum": "Bacillota",
+    "family": "Oscillospiraceae"
+  },
+  "Geobacteraceae": {
+    "family": "Geobacteraceae",
+    "phylum": "Thermodesulfobacteriota"
+  },
+  "Geodermatophilaceae": {
+    "family": "Geodermatophilaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Gjaerumiaceae": {
+    "family": "Gjaerumiaceae",
+    "phylum": "Basidiomycota"
+  },
+  "Glycomycetaceae": {
+    "family": "Glycomycetaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Gordoniaceae": {
+    "family": "Gordoniaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Gordonibacter": {
+    "phylum": "Actinomycetota",
+    "family": "Eggerthellaceae"
+  },
+  "Gottschalkiaceae": {
+    "family": "Gottschalkiaceae",
+    "phylum": "Bacillota"
+  },
+  "Gracilibacteraceae": {
+    "family": "Gracilibacteraceae",
+    "phylum": "Bacillota"
+  },
+  "Granulicatella": {
+    "phylum": "Bacillota",
+    "family": "Carnobacteriaceae"
+  },
+  "Granulosicoccaceae": {
+    "family": "Granulosicoccaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Gregarinidae": {
+    "family": "Gregarinidae",
+    "phylum": "Apicomplexa"
+  },
+  "Haemophilus": {
+    "phylum": "Pseudomonadota",
+    "family": "Pasteurellaceae"
+  },
+  "Hafnia": {
+    "phylum": "Pseudomonadota",
+    "family": "Hafniaceae"
+  },
+  "Hafniaceae": {
+    "family": "Hafniaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Hahellaceae": {
+    "family": "Hahellaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Halieaceae": {
+    "family": "Halieaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Haliphthoraceae": {
+    "family": "Haliphthoraceae",
+    "phylum": "Oomycota"
+  },
+  "Haliscomenobacteraceae": {
+    "family": "Haliscomenobacteraceae",
+    "phylum": "Bacteroidota"
+  },
+  "Halobacteriaceae": {
+    "family": "Halobacteriaceae",
+    "phylum": "Methanobacteriota"
+  },
+  "Halobacteroidaceae": {
+    "family": "Halobacteroidaceae",
+    "phylum": "Bacillota"
+  },
+  "Halococcaceae": {
+    "family": "Halococcaceae",
+    "phylum": "Methanobacteriota"
+  },
+  "Halomonadaceae": {
+    "family": "Halomonadaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Halomonas": {
+    "phylum": "Pseudomonadota",
+    "family": "Halomonadaceae"
+  },
+  "Haloplasmataceae": {
+    "family": "Haloplasmataceae",
+    "phylum": "Mycoplasmatota"
+  },
+  "Halorubraceae": {},
+  "Halothiobacillaceae": {
+    "family": "Halothiobacillaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Harryflintia": {
+    "phylum": "Bacillota",
+    "family": "Oscillospiraceae"
+  },
+  "Helicobacter": {
+    "phylum": "Campylobacterota",
+    "family": "Helicobacteraceae"
+  },
+  "Helicobacteraceae": {
+    "family": "Helicobacteraceae",
+    "phylum": "Campylobacterota"
+  },
+  "Heliobacteriaceae": {
+    "family": "Heliobacteriaceae",
+    "phylum": "Bacillota"
+  },
+  "Herpetosiphonaceae": {
+    "family": "Herpetosiphonaceae",
+    "phylum": "Chloroflexota"
+  },
+  "Holdemanella": {
+    "phylum": "Bacillota",
+    "family": "Erysipelotrichaceae"
+  },
+  "Holdemania": {
+    "phylum": "Bacillota",
+    "family": "Erysipelotrichaceae"
+  },
+  "Holophagaceae": {
+    "family": "Holophagaceae",
+    "phylum": "Acidobacteriota"
+  },
+  "Holosporaceae": {
+    "family": "Holosporaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Hungatella": {
+    "phylum": "Bacillota",
+    "family": "Lachnospiraceae"
+  },
+  "Hydrogenophilaceae": {
+    "family": "Hydrogenophilaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Hydrogenothermaceae": {
+    "family": "Hydrogenothermaceae",
+    "phylum": "Aquificota"
+  },
+  "Hyellaceae": {},
+  "Hymenobacteraceae": {
+    "family": "Hymenobacteraceae",
+    "phylum": "Bacteroidota"
+  },
+  "Hyphomicrobiaceae": {
+    "family": "Hyphomicrobiaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Hyphomonadaceae": {
+    "family": "Hyphomonadaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Iamiaceae": {
+    "family": "Iamiaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Idiomarinaceae": {
+    "family": "Idiomarinaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Ignavibacteriaceae": {
+    "family": "Ignavibacteriaceae",
+    "phylum": "Ignavibacteriota"
+  },
+  "Ileibacterium": {
+    "phylum": "Bacillota",
+    "family": "Erysipelotrichaceae"
+  },
+  "Immundisolibacteraceae": {
+    "family": "Immundisolibacteraceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Intestinibacter": {
+    "phylum": "Bacillota",
+    "family": "Peptostreptococcaceae"
+  },
+  "Intestinimonas": {
+    "phylum": "Bacillota"
+  },
+  "Intrasporangiaceae": {
+    "family": "Intrasporangiaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Isosphaeraceae": {
+    "family": "Isosphaeraceae",
+    "phylum": "Planctomycetota"
+  },
+  "Jiangellaceae": {
+    "family": "Jiangellaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Jonesiaceae": {
+    "family": "Jonesiaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Kiloniellaceae": {
+    "family": "Kiloniellaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Kineosporiaceae": {
+    "family": "Kineosporiaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Klebsiella": {
+    "phylum": "Pseudomonadota",
+    "family": "Enterobacteriaceae"
+  },
+  "Kluyvera": {
+    "phylum": "Pseudomonadota",
+    "family": "Enterobacteriaceae"
+  },
+  "Kocuria": {
+    "phylum": "Actinomycetota",
+    "family": "Micrococcaceae"
+  },
+  "Kofleriaceae": {
+    "family": "Kofleriaceae",
+    "phylum": "Myxococcota"
+  },
+  "Kondoaceae": {
+    "family": "Kondoaceae",
+    "phylum": "Basidiomycota"
+  },
+  "Kordiimonadaceae": {
+    "family": "Kordiimonadaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Kosakonia": {
+    "phylum": "Pseudomonadota",
+    "family": "Enterobacteriaceae"
+  },
+  "Ktedonobacteraceae": {
+    "family": "Ktedonobacteraceae",
+    "phylum": "Chloroflexota"
+  },
+  "Labilitrichaceae": {
+    "family": "Labilitrichaceae",
+    "phylum": "Myxococcota"
+  },
+  "Lachnoanaerobaculum": {
+    "phylum": "Bacillota",
+    "family": "Lachnospiraceae"
+  },
+  "Lachnoclostridium": {
+    "phylum": "Bacillota",
+    "family": "Lachnospiraceae"
+  },
+  "Lachnospira": {
+    "phylum": "Bacillota",
+    "family": "Lachnospiraceae"
+  },
+  "Lachnospiraceae": {
+    "family": "Lachnospiraceae",
+    "phylum": "Bacillota"
+  },
+  "Lachnospiraceae_unclassified": {},
+  "Lacrimispora": {
+    "phylum": "Bacillota",
+    "family": "Lachnospiraceae"
+  },
+  "Lacticaseibacillus": {
+    "phylum": "Bacillota",
+    "family": "Lactobacillaceae"
+  },
+  "Lactiplantibacillus": {
+    "phylum": "Bacillota",
+    "family": "Lactobacillaceae"
+  },
+  "Lactobacillaceae": {
+    "family": "Lactobacillaceae",
+    "phylum": "Bacillota"
+  },
+  "Lactobacillus": {
+    "phylum": "Bacillota",
+    "family": "Lactobacillaceae"
+  },
+  "Lactococcus": {
+    "phylum": "Bacillota",
+    "family": "Streptococcaceae"
+  },
+  "Lactonifactor": {
+    "phylum": "Bacillota",
+    "family": "Clostridiaceae"
+  },
+  "Lancefieldella": {
+    "phylum": "Actinomycetota",
+    "family": "Atopobiaceae"
+  },
+  "Latilactobacillus": {
+    "phylum": "Bacillota",
+    "family": "Lactobacillaceae"
+  },
+  "Lautropia": {
+    "phylum": "Pseudomonadota",
+    "family": "Burkholderiaceae"
+  },
+  "Lawsonella": {
+    "phylum": "Actinomycetota",
+    "family": "Lawsonellaceae"
+  },
+  "Lawsonibacter": {
+    "phylum": "Bacillota",
+    "family": "Oscillospiraceae"
+  },
+  "Leclercia": {
+    "phylum": "Pseudomonadota",
+    "family": "Enterobacteriaceae"
+  },
+  "Legionellaceae": {
+    "family": "Legionellaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Lentilactobacillus": {
+    "phylum": "Bacillota",
+    "family": "Lactobacillaceae"
+  },
+  "Lentimicrobiaceae": {
+    "family": "Lentimicrobiaceae",
+    "phylum": "Bacteroidota"
+  },
+  "Leptolyngbyaceae": {
+    "family": "Leptolyngbyaceae",
+    "phylum": "Cyanobacteriota"
+  },
+  "Leptospiraceae": {
+    "family": "Leptospiraceae",
+    "phylum": "Spirochaetota"
+  },
+  "Leptotrichia": {
+    "phylum": "Fusobacteriota",
+    "family": "Leptotrichiaceae"
+  },
+  "Leptotrichiaceae": {
+    "family": "Leptotrichiaceae",
+    "phylum": "Fusobacteriota"
+  },
+  "Leuconostoc": {
+    "phylum": "Bacillota",
+    "family": "Lactobacillaceae"
+  },
+  "Leuconostocaceae": {},
+  "Levilactobacillus": {
+    "phylum": "Bacillota",
+    "family": "Lactobacillaceae"
+  },
+  "Lichtheimiaceae": {
+    "family": "Lichtheimiaceae",
+    "phylum": "Mucoromycota"
+  },
+  "Ligilactobacillus": {
+    "phylum": "Bacillota",
+    "family": "Lactobacillaceae"
+  },
+  "Limnochordaceae": {
+    "family": "Limnochordaceae",
+    "phylum": "Bacillota"
+  },
+  "Limosilactobacillus": {
+    "phylum": "Bacillota",
+    "family": "Lactobacillaceae"
+  },
+  "Listeriaceae": {
+    "family": "Listeriaceae",
+    "phylum": "Bacillota"
+  },
+  "Longimicrobiaceae": {
+    "family": "Longimicrobiaceae",
+    "phylum": "Gemmatimonadota"
+  },
+  "Lumbricoplasmataceae": {},
+  "Macrococcus": {
+    "phylum": "Bacillota",
+    "family": "Staphylococcaceae"
+  },
+  "Mageeibacillus": {
+    "phylum": "Bacillota",
+    "family": "Oscillospiraceae"
+  },
+  "Malasseziaceae": {
+    "family": "Malasseziaceae",
+    "phylum": "Basidiomycota"
+  },
+  "Mammaliicoccus": {
+    "phylum": "Bacillota",
+    "family": "Staphylococcaceae"
+  },
+  "Marinifilaceae": {
+    "family": "Marinifilaceae",
+    "phylum": "Bacteroidota"
+  },
+  "Marinilabiliaceae": {
+    "family": "Marinilabiliaceae",
+    "phylum": "Bacteroidota"
+  },
+  "Marvinbryantia": {
+    "phylum": "Bacillota",
+    "family": "Lachnospiraceae"
+  },
+  "Massilimicrobiota": {},
+  "Massiliomicrobiota": {},
+  "Mediterranea": {
+    "phylum": "Bacteroidota",
+    "family": "Bacteroidaceae"
+  },
+  "Mediterraneibacter": {
+    "phylum": "Bacillota",
+    "family": "Lachnospiraceae"
+  },
+  "Megamonas": {
+    "phylum": "Bacillota",
+    "family": "Selenomonadaceae"
+  },
+  "Megasphaera": {
+    "phylum": "Bacillota",
+    "family": "Veillonellaceae"
+  },
+  "Meiothermus": {
+    "phylum": "Deinococcota",
+    "family": "Thermaceae"
+  },
+  "Melioribacteraceae": {
+    "family": "Melioribacteraceae",
+    "phylum": "Ignavibacteriota"
+  },
+  "Merismopediaceae": {
+    "family": "Merismopediaceae",
+    "phylum": "Cyanobacteriota"
+  },
+  "Methanobacteriaceae": {
+    "family": "Methanobacteriaceae",
+    "phylum": "Methanobacteriota"
+  },
+  "Methanobrevibacter": {
+    "phylum": "Methanobacteriota",
+    "family": "Methanobacteriaceae"
+  },
+  "Methanomassiliicoccaceae": {
+    "family": "Methanomassiliicoccaceae",
+    "phylum": "Thermoplasmatota"
+  },
+  "Methanomassiliicoccus": {
+    "phylum": "Thermoplasmatota",
+    "family": "Methanomassiliicoccaceae"
+  },
+  "Methanosaetaceae": {},
+  "Methanosarcinaceae": {
+    "family": "Methanosarcinaceae",
+    "phylum": "Methanobacteriota"
+  },
+  "Methanosphaera": {
+    "phylum": "Methanobacteriota",
+    "family": "Methanobacteriaceae"
+  },
+  "Methylacidiphilaceae": {
+    "family": "Methylacidiphilaceae",
+    "phylum": "Verrucomicrobiota"
+  },
+  "Methylobacteriaceae": {
+    "family": "Methylobacteriaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Methylococcaceae": {
+    "family": "Methylococcaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Methylocystaceae": {
+    "family": "Methylocystaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Methylophilaceae": {
+    "family": "Methylophilaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Microbacteriaceae": {
+    "family": "Microbacteriaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Micrococcaceae": {
+    "family": "Micrococcaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Microcoleaceae": {
+    "family": "Microcoleaceae",
+    "phylum": "Cyanobacteriota"
+  },
+  "Microcystaceae": {
+    "family": "Microcystaceae",
+    "phylum": "Cyanobacteriota"
+  },
+  "Microlunatus": {
+    "phylum": "Actinomycetota",
+    "family": "Propionibacteriaceae"
+  },
+  "Micromonosporaceae": {
+    "family": "Micromonosporaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Micropepsaceae": {
+    "family": "Micropepsaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Microscillaceae": {
+    "family": "Microscillaceae",
+    "phylum": "Bacteroidota"
+  },
+  "Microthrixaceae": {
+    "family": "Microthrixaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Mitsuokella": {
+    "phylum": "Bacillota",
+    "family": "Selenomonadaceae"
+  },
+  "Mogibacterium": {
+    "phylum": "Bacillota",
+    "family": "Anaerovoracaceae"
+  },
+  "Monoglobus": {
+    "phylum": "Bacillota",
+    "family": "Monoglobaceae"
+  },
+  "Moraxella": {
+    "phylum": "Pseudomonadota",
+    "family": "Moraxellaceae"
+  },
+  "Moraxellaceae": {
+    "family": "Moraxellaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Morganella": {
+    "phylum": "Arthropoda",
+    "family": "Diaspididae"
+  },
+  "Morganellaceae": {
+    "family": "Morganellaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Moritellaceae": {
+    "family": "Moritellaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Morococcus": {
+    "phylum": "Pseudomonadota",
+    "family": "Neisseriaceae"
+  },
+  "Mucispirillum": {
+    "phylum": "Deferribacterota",
+    "family": "Mucispirillaceae"
+  },
+  "Mucoraceae": {
+    "family": "Mucoraceae",
+    "phylum": "Mucoromycota"
+  },
+  "Muribaculaceae": {
+    "family": "Muribaculaceae",
+    "phylum": "Bacteroidota"
+  },
+  "Muribaculum": {
+    "phylum": "Bacteroidota",
+    "family": "Muribaculaceae"
+  },
+  "Murimonas": {
+    "phylum": "Bacillota",
+    "family": "Lachnospiraceae"
+  },
+  "Mycobacteriaceae": {
+    "family": "Mycobacteriaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Mycolicibacterium": {
+    "phylum": "Actinomycetota",
+    "family": "Mycobacteriaceae"
+  },
+  "Mycoplasma": {
+    "phylum": "Mycoplasmatota",
+    "family": "Mycoplasmataceae"
+  },
+  "Mycoplasmataceae": {
+    "family": "Mycoplasmataceae",
+    "phylum": "Mycoplasmatota"
+  },
+  "Myxococcaceae": {
+    "family": "Myxococcaceae",
+    "phylum": "Myxococcota"
+  },
+  "Nakamurellaceae": {
+    "family": "Nakamurellaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Nannocystaceae": {
+    "family": "Nannocystaceae",
+    "phylum": "Myxococcota"
+  },
+  "Natranaerobiaceae": {
+    "family": "Natranaerobiaceae",
+    "phylum": "Bacillota"
+  },
+  "Natrialbaceae": {
+    "family": "Natrialbaceae",
+    "phylum": "Methanobacteriota"
+  },
+  "Naviculaceae": {
+    "family": "Naviculaceae",
+    "phylum": "Bacillariophyta"
+  },
+  "Negativicoccus": {
+    "phylum": "Bacillota",
+    "family": "Veillonellaceae"
+  },
+  "Neisseria": {
+    "phylum": "Pseudomonadota",
+    "family": "Neisseriaceae"
+  },
+  "Neisseriaceae": {
+    "family": "Neisseriaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Nitriliruptoraceae": {
+    "family": "Nitriliruptoraceae",
+    "phylum": "Actinomycetota"
+  },
+  "Nitrosomonadaceae": {
+    "family": "Nitrosomonadaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Nitrosopumilaceae": {
+    "family": "Nitrosopumilaceae",
+    "phylum": "Nitrososphaerota"
+  },
+  "Nitrososphaeraceae": {
+    "family": "Nitrososphaeraceae",
+    "phylum": "Nitrososphaerota"
+  },
+  "Nitrospiraceae": {
+    "family": "Nitrospiraceae",
+    "phylum": "Nitrospirota"
+  },
+  "Nocardiaceae": {
+    "family": "Nocardiaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Nocardioidaceae": {
+    "family": "Nocardioidaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Nocardiopsaceae": {},
+  "Nostocaceae": {
+    "family": "Nostocaceae",
+    "phylum": "Cyanobacteriota"
+  },
+  "Oceanospirillaceae": {
+    "family": "Oceanospirillaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Odoribacter": {
+    "phylum": "Bacteroidota",
+    "family": "Odoribacteraceae"
+  },
+  "Odoribacteraceae": {
+    "family": "Odoribacteraceae",
+    "phylum": "Bacteroidota"
+  },
+  "Oleiphilaceae": {
+    "family": "Oleiphilaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Oligoflexaceae": {
+    "family": "Oligoflexaceae",
+    "phylum": "Bdellovibrionota"
+  },
+  "Olsenella": {
+    "phylum": "Actinomycetota",
+    "family": "Atopobiaceae"
+  },
+  "Opitutaceae": {
+    "family": "Opitutaceae",
+    "phylum": "Verrucomicrobiota"
+  },
+  "Orbaceae": {
+    "family": "Orbaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Oribacterium": {
+    "phylum": "Bacillota",
+    "family": "Lachnospiraceae"
+  },
+  "Oscillibacter": {
+    "phylum": "Bacillota",
+    "family": "Oscillospiraceae"
+  },
+  "Oscillochloridaceae": {
+    "family": "Oscillochloridaceae",
+    "phylum": "Chloroflexota"
+  },
+  "Oscillospiraceae": {
+    "family": "Oscillospiraceae",
+    "phylum": "Bacillota"
+  },
+  "Oxalobacter": {
+    "phylum": "Pseudomonadota",
+    "family": "Oxalobacteraceae"
+  },
+  "Oxalobacteraceae": {
+    "family": "Oxalobacteraceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Paenibacillaceae": {
+    "family": "Paenibacillaceae",
+    "phylum": "Bacillota"
+  },
+  "Paeniclostridium": {
+    "phylum": "Bacillota",
+    "family": "Peptostreptococcaceae"
+  },
+  "Paludibacteraceae": {
+    "family": "Paludibacteraceae",
+    "phylum": "Bacteroidota"
+  },
+  "Pantoea": {
+    "phylum": "Pseudomonadota",
+    "family": "Erwiniaceae"
+  },
+  "Parabacteroides": {
+    "phylum": "Bacteroidota",
+    "family": "Tannerellaceae"
+  },
+  "Parachlamydiaceae": {
+    "family": "Parachlamydiaceae",
+    "phylum": "Chlamydiota"
+  },
+  "Paraclostridium": {
+    "phylum": "Bacillota",
+    "family": "Peptostreptococcaceae"
+  },
+  "Paraprevotella": {
+    "phylum": "Bacteroidota",
+    "family": "Prevotellaceae"
+  },
+  "Parascardovia": {
+    "phylum": "Actinomycetota",
+    "family": "Bifidobacteriaceae"
+  },
+  "Parasutterella": {
+    "phylum": "Pseudomonadota",
+    "family": "Sutterellaceae"
+  },
+  "Parvimonas": {
+    "phylum": "Bacillota",
+    "family": "Peptoniphilaceae"
+  },
+  "Parviterribacteraceae": {
+    "family": "Parviterribacteraceae",
+    "phylum": "Actinomycetota"
+  },
+  "Pasteurellaceae": {
+    "family": "Pasteurellaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Pasteuriaceae": {
+    "family": "Pasteuriaceae",
+    "phylum": "Bacillota"
+  },
+  "Patulibacteraceae": {
+    "family": "Patulibacteraceae",
+    "phylum": "Actinomycetota"
+  },
+  "Pectobacteriaceae": {
+    "family": "Pectobacteriaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Pediococcus": {
+    "phylum": "Bacillota",
+    "family": "Lactobacillaceae"
+  },
+  "Pedobacter": {
+    "phylum": "Bacteroidota",
+    "family": "Sphingobacteriaceae"
+  },
+  "Peptacetobacter": {
+    "phylum": "Bacillota",
+    "family": "Peptostreptococcaceae"
+  },
+  "Peptococcaceae": {
+    "family": "Peptococcaceae",
+    "phylum": "Bacillota"
+  },
+  "Peptococcus": {
+    "phylum": "Bacillota",
+    "family": "Peptococcaceae"
+  },
+  "Peptoniphilaceae": {
+    "family": "Peptoniphilaceae",
+    "phylum": "Bacillota"
+  },
+  "Peptoniphilus": {
+    "phylum": "Bacillota",
+    "family": "Peptoniphilaceae"
+  },
+  "Peptostreptococcaceae": {
+    "family": "Peptostreptococcaceae",
+    "phylum": "Bacillota"
+  },
+  "Peptostreptococcaceae_unclassified": {},
+  "Peptostreptococcus": {
+    "phylum": "Bacillota",
+    "family": "Peptostreptococcaceae"
+  },
+  "Phaffomycetaceae": {
+    "family": "Phaffomycetaceae",
+    "phylum": "Ascomycota"
+  },
+  "Phascolarctobacterium": {
+    "phylum": "Bacillota",
+    "family": "Acidaminococcaceae"
+  },
+  "Phaselicystidaceae": {
+    "family": "Phaselicystidaceae",
+    "phylum": "Myxococcota"
+  },
+  "Phocaeicola": {
+    "phylum": "Bacteroidota",
+    "family": "Bacteroidaceae"
+  },
+  "Phycisphaeraceae": {
+    "family": "Phycisphaeraceae",
+    "phylum": "Planctomycetota"
+  },
+  "Phyllobacteriaceae": {
+    "family": "Phyllobacteriaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Phyllobacterium": {
+    "phylum": "Pseudomonadota",
+    "family": "Phyllobacteriaceae"
+  },
+  "Piscirickettsiaceae": {
+    "family": "Piscirickettsiaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Piskurozymaceae": {
+    "family": "Piskurozymaceae",
+    "phylum": "Basidiomycota"
+  },
+  "Planctomycetaceae": {
+    "family": "Planctomycetaceae",
+    "phylum": "Planctomycetota"
+  },
+  "Planococcaceae": {},
+  "Plesiomonas": {
+    "phylum": "Pseudomonadota",
+    "family": "Enterobacteriaceae"
+  },
+  "Pluralibacter": {
+    "phylum": "Pseudomonadota",
+    "family": "Enterobacteriaceae"
+  },
+  "Polyangiaceae": {
+    "family": "Polyangiaceae",
+    "phylum": "Myxococcota"
+  },
+  "Porphyromonadaceae": {
+    "family": "Porphyromonadaceae",
+    "phylum": "Bacteroidota"
+  },
+  "Porphyromonas": {
+    "phylum": "Bacteroidota",
+    "family": "Porphyromonadaceae"
+  },
+  "Porticoccaceae": {
+    "family": "Porticoccaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Prevotella": {
+    "phylum": "Bacteroidota",
+    "family": "Prevotellaceae"
+  },
+  "Prevotellaceae": {
+    "family": "Prevotellaceae",
+    "phylum": "Bacteroidota"
+  },
+  "Procabacteriaceae": {},
+  "Prolixibacteraceae": {
+    "family": "Prolixibacteraceae",
+    "phylum": "Bacteroidota"
+  },
+  "Promicromonosporaceae": {
+    "family": "Promicromonosporaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Propionibacteriaceae": {
+    "family": "Propionibacteriaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Propionibacterium": {
+    "phylum": "Actinomycetota",
+    "family": "Propionibacteriaceae"
+  },
+  "Proteinivoraceae": {},
+  "Proteobacteria_unclassified": {},
+  "Proteus": {
+    "phylum": "Chordata",
+    "family": "Proteidae"
+  },
+  "Providencia": {
+    "phylum": "Pseudomonadota",
+    "family": "Morganellaceae"
+  },
+  "Pseudanabaenaceae": {
+    "family": "Pseudanabaenaceae",
+    "phylum": "Cyanobacteriota"
+  },
+  "Pseudescherichia": {
+    "phylum": "Pseudomonadota",
+    "family": "Enterobacteriaceae"
+  },
+  "Pseudoalteromonadaceae": {
+    "family": "Pseudoalteromonadaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Pseudoalteromonas": {
+    "phylum": "Pseudomonadota",
+    "family": "Pseudoalteromonadaceae"
+  },
+  "Pseudocitrobacter": {
+    "phylum": "Pseudomonadota",
+    "family": "Enterobacteriaceae"
+  },
+  "Pseudoflavonifractor": {
+    "phylum": "Bacillota",
+    "family": "Oscillospiraceae"
+  },
+  "Pseudomonadaceae": {
+    "family": "Pseudomonadaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Pseudomonas": {
+    "phylum": "Pseudomonadota",
+    "family": "Pseudomonadaceae"
+  },
+  "Pseudonocardiaceae": {
+    "family": "Pseudonocardiaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Pseudopropionibacterium": {},
+  "Pseudoramibacter": {
+    "phylum": "Bacillota",
+    "family": "Eubacteriaceae"
+  },
+  "Psychromonadaceae": {
+    "family": "Psychromonadaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Puniceicoccaceae": {
+    "family": "Puniceicoccaceae",
+    "phylum": "Verrucomicrobiota"
+  },
+  "Pyramidobacter": {
+    "phylum": "Synergistota",
+    "family": "Dethiosulfovibrionaceae"
+  },
+  "Pyrinomonadaceae": {
+    "family": "Pyrinomonadaceae",
+    "phylum": "Acidobacteriota"
+  },
+  "Pyrococcus": {
+    "phylum": "Methanobacteriota",
+    "family": "Thermococcaceae"
+  },
+  "Raoultella": {},
+  "Rarobacteraceae": {
+    "family": "Rarobacteraceae",
+    "phylum": "Actinomycetota"
+  },
+  "Rhabdochlamydiaceae": {},
+  "Rhizobiaceae": {
+    "family": "Rhizobiaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Rhizopodaceae": {
+    "family": "Rhizopodaceae",
+    "phylum": "Mucoromycota"
+  },
+  "Rhodanobacteraceae": {
+    "family": "Rhodanobacteraceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Rhodobacteraceae": {},
+  "Rhodobiaceae": {
+    "family": "Rhodobiaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Rhodococcus": {
+    "phylum": "Arthropoda",
+    "family": "Coccidae"
+  },
+  "Rhodocyclaceae": {
+    "family": "Rhodocyclaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Rhodospirillaceae": {
+    "family": "Rhodospirillaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Rhodothermaceae": {
+    "family": "Rhodothermaceae",
+    "phylum": "Rhodothermota"
+  },
+  "Rickettsiaceae": {
+    "family": "Rickettsiaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Rikenella": {
+    "phylum": "Bacteroidota",
+    "family": "Rikenellaceae"
+  },
+  "Rikenellaceae": {
+    "family": "Rikenellaceae",
+    "phylum": "Bacteroidota"
+  },
+  "Rivulariaceae": {
+    "family": "Rivulariaceae",
+    "phylum": "Cyanobacteriota"
+  },
+  "Robinsoniella": {
+    "phylum": "Bacillota",
+    "family": "Lachnospiraceae"
+  },
+  "Romboutsia": {
+    "phylum": "Bacillota",
+    "family": "Peptostreptococcaceae"
+  },
+  "Roseburia": {
+    "phylum": "Bacillota",
+    "family": "Lachnospiraceae"
+  },
+  "Roseiflexaceae": {
+    "family": "Roseiflexaceae",
+    "phylum": "Chloroflexota"
+  },
+  "Rothia": {
+    "phylum": "Arthropoda",
+    "family": "Noctuidae"
+  },
+  "Ruaniaceae": {
+    "family": "Ruaniaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Rubricoccaceae": {
+    "family": "Rubricoccaceae",
+    "phylum": "Rhodothermota"
+  },
+  "Rubritaleaceae": {
+    "family": "Rubritaleaceae",
+    "phylum": "Verrucomicrobiota"
+  },
+  "Rubrobacteraceae": {
+    "family": "Rubrobacteraceae",
+    "phylum": "Actinomycetota"
+  },
+  "Ruminococcaceae": {},
+  "Ruminococcaceae_unclassified": {},
+  "Ruminococcus": {
+    "phylum": "Bacillota",
+    "family": "Oscillospiraceae"
+  },
+  "Ruthenibacterium": {
+    "phylum": "Bacillota",
+    "family": "Oscillospiraceae"
+  },
+  "Saccharomyces": {
+    "phylum": "Ascomycota",
+    "family": "Saccharomycetaceae"
+  },
+  "Saccharospirillaceae": {
+    "family": "Saccharospirillaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Salinisphaeraceae": {
+    "family": "Salinisphaeraceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Salmonella": {
+    "phylum": "Pseudomonadota",
+    "family": "Enterobacteriaceae"
+  },
+  "Sandaracinaceae": {
+    "family": "Sandaracinaceae",
+    "phylum": "Myxococcota"
+  },
+  "Sanguibacteraceae": {
+    "family": "Sanguibacteraceae",
+    "phylum": "Actinomycetota"
+  },
+  "Sanguibacteroides": {
+    "phylum": "Bacteroidota",
+    "family": "Porphyromonadaceae"
+  },
+  "Saprospiraceae": {
+    "family": "Saprospiraceae",
+    "phylum": "Bacteroidota"
+  },
+  "Sarcina": {
+    "phylum": "Bacillota",
+    "family": "Clostridiaceae"
+  },
+  "Scardovia": {
+    "phylum": "Actinomycetota",
+    "family": "Bifidobacteriaceae"
+  },
+  "Scenedesmaceae": {
+    "family": "Scenedesmaceae",
+    "phylum": "Chlorophyta"
+  },
+  "Schaalia": {
+    "phylum": "Actinomycetota",
+    "family": "Actinomycetaceae"
+  },
+  "Schleiferiaceae": {
+    "family": "Schleiferiaceae",
+    "phylum": "Bacteroidota"
+  },
+  "Schleiferilactobacillus": {
+    "phylum": "Bacillota",
+    "family": "Lactobacillaceae"
+  },
+  "Schwartzia": {
+    "phylum": "Streptophyta",
+    "family": "Marcgraviaceae"
+  },
+  "Scytonemataceae": {
+    "family": "Scytonemataceae",
+    "phylum": "Cyanobacteriota"
+  },
+  "Segniliparaceae": {
+    "family": "Segniliparaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Selenomonadaceae": {
+    "family": "Selenomonadaceae",
+    "phylum": "Bacillota"
+  },
+  "Selenomonas": {
+    "phylum": "Bacillota",
+    "family": "Selenomonadaceae"
+  },
+  "Sellimonas": {
+    "phylum": "Bacillota",
+    "family": "Lachnospiraceae"
+  },
+  "Serratia": {
+    "phylum": "Arthropoda",
+    "family": "Lampyridae"
+  },
+  "Sharpea": {
+    "phylum": "Bacillota",
+    "family": "Coprobacillaceae"
+  },
+  "Shewanella": {
+    "phylum": "Pseudomonadota",
+    "family": "Shewanellaceae"
+  },
+  "Shewanellaceae": {
+    "family": "Shewanellaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Silvanigrellaceae": {
+    "family": "Silvanigrellaceae",
+    "phylum": "Bdellovibrionota"
+  },
+  "Simkaniaceae": {
+    "family": "Simkaniaceae",
+    "phylum": "Chlamydiota"
+  },
+  "Sinobacteraceae": {},
+  "Slackia": {
+    "phylum": "Actinomycetota",
+    "family": "Eggerthellaceae"
+  },
+  "Sneathia": {
+    "phylum": "Fusobacteriota",
+    "family": "Leptotrichiaceae"
+  },
+  "Sneathiellaceae": {
+    "family": "Sneathiellaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Solibacteraceae": {
+    "family": "Solibacteraceae",
+    "phylum": "Acidobacteriota"
+  },
+  "Solirubrobacteraceae": {
+    "family": "Solirubrobacteraceae",
+    "phylum": "Actinomycetota"
+  },
+  "Solobacterium": {
+    "phylum": "Bacillota",
+    "family": "Erysipelotrichaceae"
+  },
+  "Sphaerobacteraceae": {
+    "family": "Sphaerobacteraceae",
+    "phylum": "Thermomicrobiota"
+  },
+  "Sphingobacteriaceae": {
+    "family": "Sphingobacteriaceae",
+    "phylum": "Bacteroidota"
+  },
+  "Sphingomonadaceae": {
+    "family": "Sphingomonadaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Sphingopyxis": {
+    "phylum": "Pseudomonadota",
+    "family": "Sphingopyxidaceae"
+  },
+  "Spirillaceae": {
+    "family": "Spirillaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Spirochaetaceae": {
+    "family": "Spirochaetaceae",
+    "phylum": "Spirochaetota"
+  },
+  "Spiroplasmataceae": {
+    "family": "Spiroplasmataceae",
+    "phylum": "Mycoplasmatota"
+  },
+  "Spongiibacteraceae": {
+    "family": "Spongiibacteraceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Sporichthyaceae": {
+    "family": "Sporichthyaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Sporidiobolaceae": {
+    "family": "Sporidiobolaceae",
+    "phylum": "Basidiomycota"
+  },
+  "Sporolactobacillaceae": {
+    "family": "Sporolactobacillaceae",
+    "phylum": "Bacillota"
+  },
+  "Sporomusaceae": {
+    "family": "Sporomusaceae",
+    "phylum": "Bacillota"
+  },
+  "Staphylococcaceae": {
+    "family": "Staphylococcaceae",
+    "phylum": "Bacillota"
+  },
+  "Staphylococcus": {
+    "phylum": "Bacillota",
+    "family": "Staphylococcaceae"
+  },
+  "Stenotrophomonas": {
+    "phylum": "Pseudomonadota",
+    "family": "Lysobacteraceae"
+  },
+  "Sterolibacteriaceae": {
+    "family": "Sterolibacteriaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Stomatobaculum": {
+    "phylum": "Bacillota",
+    "family": "Lachnospiraceae"
+  },
+  "Streptococcaceae": {
+    "family": "Streptococcaceae",
+    "phylum": "Bacillota"
+  },
+  "Streptococcus": {
+    "phylum": "Bacillota",
+    "family": "Streptococcaceae"
+  },
+  "Streptomycetaceae": {
+    "family": "Streptomycetaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Streptosporangiaceae": {
+    "family": "Streptosporangiaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Subdoligranulum": {
+    "phylum": "Bacillota",
+    "family": "Oscillospiraceae"
+  },
+  "Succinatimonas": {
+    "phylum": "Pseudomonadota",
+    "family": "Succinivibrionaceae"
+  },
+  "Succinivibrionaceae": {
+    "family": "Succinivibrionaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Sutterellaceae": {
+    "family": "Sutterellaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Symbiobacteriaceae": {
+    "family": "Symbiobacteriaceae",
+    "phylum": "Bacillota"
+  },
+  "Symphyonemataceae": {
+    "family": "Symphyonemataceae",
+    "phylum": "Cyanobacteriota"
+  },
+  "Syncephalastraceae": {
+    "family": "Syncephalastraceae",
+    "phylum": "Mucoromycota"
+  },
+  "Synechococcaceae": {
+    "family": "Synechococcaceae",
+    "phylum": "Cyanobacteriota"
+  },
+  "Synergistaceae": {
+    "family": "Synergistaceae",
+    "phylum": "Synergistota"
+  },
+  "Synergistes": {
+    "phylum": "Synergistota",
+    "family": "Synergistaceae"
+  },
+  "Syntrophaceae": {
+    "family": "Syntrophaceae",
+    "phylum": "Thermodesulfobacteriota"
+  },
+  "Syntrophobacteraceae": {
+    "family": "Syntrophobacteraceae",
+    "phylum": "Thermodesulfobacteriota"
+  },
+  "Syntrophomonadaceae": {
+    "family": "Syntrophomonadaceae",
+    "phylum": "Bacillota"
+  },
+  "Syzygosporaceae": {
+    "family": "Syzygosporaceae",
+    "phylum": "Basidiomycota"
+  },
+  "Tannerellaceae": {
+    "family": "Tannerellaceae",
+    "phylum": "Bacteroidota"
+  },
+  "Tepidisphaeraceae": {
+    "family": "Tepidisphaeraceae",
+    "phylum": "Planctomycetota"
+  },
+  "Terrisporobacter": {
+    "phylum": "Bacillota",
+    "family": "Peptostreptococcaceae"
+  },
+  "Thermaceae": {
+    "family": "Thermaceae",
+    "phylum": "Deinococcota"
+  },
+  "Thermoactinomycetaceae": {
+    "family": "Thermoactinomycetaceae",
+    "phylum": "Bacillota"
+  },
+  "Thermoanaerobacteraceae": {
+    "family": "Thermoanaerobacteraceae",
+    "phylum": "Bacillota"
+  },
+  "Thermoanaerobacterales_Family_III._Incertae_Sedis": {
+    "family": "Thermoanaerobacterales Family III. Incertae Sedis",
+    "phylum": "Bacillota"
+  },
+  "Thermoanaerobacterales_Family_IV._Incertae_Sedis": {
+    "family": "Thermoanaerobacterales Family IV. Incertae Sedis",
+    "phylum": "Bacillota"
+  },
+  "Thermodesulfobiaceae": {
+    "family": "Thermodesulfobiaceae",
+    "phylum": "Thermodesulfobiota"
+  },
+  "Thermomicrobiaceae": {
+    "family": "Thermomicrobiaceae",
+    "phylum": "Thermomicrobiota"
+  },
+  "Thermomonosporaceae": {
+    "family": "Thermomonosporaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Thermonemataceae": {
+    "family": "Thermonemataceae",
+    "phylum": "Bacteroidota"
+  },
+  "Thermosporotrichaceae": {
+    "family": "Thermosporotrichaceae",
+    "phylum": "Chloroflexota"
+  },
+  "Thermotogaceae": {
+    "family": "Thermotogaceae",
+    "phylum": "Thermotogota"
+  },
+  "Thioalkalispiraceae": {
+    "family": "Thioalkalispiraceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Thiobacillaceae": {
+    "family": "Thiobacillaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Thiotrichaceae": {
+    "family": "Thiotrichaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Tilletiariaceae": {
+    "family": "Tilletiariaceae",
+    "phylum": "Basidiomycota"
+  },
+  "Tissierellaceae": {
+    "family": "Tissierellaceae",
+    "phylum": "Bacillota"
+  },
+  "Tissierellia_unclassified": {},
+  "Tolypothrichaceae": {
+    "family": "Tolypothrichaceae",
+    "phylum": "Cyanobacteriota"
+  },
+  "Tractidigestivibacter": {
+    "phylum": "Actinomycetota",
+    "family": "Atopobiaceae"
+  },
+  "Treponema": {
+    "phylum": "Spirochaetota",
+    "family": "Treponemataceae"
+  },
+  "Tropheryma": {
+    "phylum": "Actinomycetota",
+    "family": "Tropherymataceae"
+  },
+  "Trueperaceae": {
+    "family": "Trueperaceae",
+    "phylum": "Deinococcota"
+  },
+  "Tsukamurellaceae": {
+    "family": "Tsukamurellaceae",
+    "phylum": "Actinomycetota"
+  },
+  "Turicibacter": {
+    "phylum": "Bacillota",
+    "family": "Turicibacteraceae"
+  },
+  "Turicimonas": {
+    "phylum": "Pseudomonadota",
+    "family": "Sutterellaceae"
+  },
+  "Tyzzerella": {
+    "phylum": "Bacillota",
+    "family": "Lachnospiraceae"
+  },
+  "Ustilaginaceae": {
+    "family": "Ustilaginaceae",
+    "phylum": "Basidiomycota"
+  },
+  "Varibaculum": {
+    "phylum": "Actinomycetota",
+    "family": "Actinomycetaceae"
+  },
+  "Veillonella": {
+    "phylum": "Bacillota",
+    "family": "Veillonellaceae"
+  },
+  "Veillonellaceae": {
+    "family": "Veillonellaceae",
+    "phylum": "Bacillota"
+  },
+  "Veillonellaceae_unclassified": {},
+  "Verrucomicrobiaceae": {
+    "family": "Verrucomicrobiaceae",
+    "phylum": "Verrucomicrobiota"
+  },
+  "Vibrio": {
+    "phylum": "Pseudomonadota",
+    "family": "Vibrionaceae"
+  },
+  "Vibrionaceae": {
+    "family": "Vibrionaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Victivallaceae": {
+    "family": "Victivallaceae",
+    "phylum": "Lentisphaerota"
+  },
+  "Victivallis": {
+    "phylum": "Lentisphaerota",
+    "family": "Victivallaceae"
+  },
+  "Vulgatibacteraceae": {
+    "family": "Vulgatibacteraceae",
+    "phylum": "Myxococcota"
+  },
+  "Weissella": {
+    "phylum": "Bacillota",
+    "family": "Lactobacillaceae"
+  },
+  "Williamsiaceae": {},
+  "Woeseiaceae": {
+    "family": "Woeseiaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Xanthobacteraceae": {
+    "family": "Xanthobacteraceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Xanthomonadaceae": {},
+  "Xanthomonas": {
+    "phylum": "Pseudomonadota",
+    "family": "Lysobacteraceae"
+  },
+  "Xenococcaceae": {
+    "family": "Xenococcaceae",
+    "phylum": "Cyanobacteriota"
+  },
+  "Yersiniaceae": {
+    "family": "Yersiniaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "Zoogloeaceae": {
+    "family": "Zoogloeaceae",
+    "phylum": "Pseudomonadota"
+  },
+  "upf_proxy_score": {}
+}

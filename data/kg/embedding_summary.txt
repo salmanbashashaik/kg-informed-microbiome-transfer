@@ -1,0 +1,32 @@
+============================================================
+Entity Embedding Summary
+Checkpoint epoch  : 375
+Val MRR           : 0.0569
+Val Hits@10       : 0.0937
+============================================================
+Shape             : (2856, 256)
+Dtype             : float32
+Mean pairwise cos : 0.2265  (gate: < 0.40)
+Effective rank    : 233.13  (gate: > 30)
+Norm mean         : 9.3555
+Norm std          : 1.0687
+
+Per node-type norm stats:
+  Type                         N   Mean norm       Std
+  ----------------------------------------------------
+  additive                     7     11.3045    0.2958
+  cell_type                   16     11.0042    0.3801
+  clinical_marker             25     10.7531    0.4377
+  diet_component              17     10.8343    0.4985
+  disease                     20     10.8578    0.4110
+  drug                         8     11.0210    0.2801
+  host_enzyme                 44     10.6699    0.7967
+  host_gene                    7     11.0505    0.2091
+  host_receptor               38     10.9333    0.4828
+  host_structure               7     10.9695    0.4818
+  ko                         991      8.6414    1.0668
+  metabolite                  74     10.8538    0.4712
+  pathway                     15     11.3567    0.2677
+  process                     81     10.7130    0.4708
+  taxon                     1506      9.4700    0.6872
+============================================================

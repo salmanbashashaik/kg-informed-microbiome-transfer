@@ -1,0 +1,129 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "project": "kg-informed-microbiome-transfer",
+  "paper": {
+    "title": "Knowledge Graph-Informed Foundation Model for Microbiome-Cardiovascular Disease Classification",
+    "conference": "IEEE BIBM 2026",
+    "paper_id": "B1518",
+    "authors": [
+      "Shaik Salman Basha",
+      "Ziting Shen",
+      "Anita Layton",
+      "Sun Sun",
+      "Helen Hong Chen"
+    ]
+  },
+  "provenance_timestamp": "2026-10-14T17:44:00-04:00",
+  "data_integrity_rules": [
+    "ACVD data correction from July 5, 2026 strictly enforced; all *.stale_bak_2026-07-05 artifacts excluded.",
+    "No patient-level private metadata committed to version control.",
+    "Scale normalization factor gamma = 0.32 strictly applied to R-GCN vectors."
+  ],
+  "components": {
+    "knowledge_graph": {
+      "source_host": "nibi.computecanada.ca",
+      "source_directory": "/home/salman28/scratch/gut4heart/kg",
+      "source_commit": "4f490f6f",
+      "source_files": [
+        "kg/nodes_v06.tsv",
+        "kg/edges_v06.tsv"
+      ],
+      "target_files": [
+        "data/kg/nodes_v06.tsv",
+        "data/kg/edges_v06.tsv",
+        "data/kg/node_id_to_row.json"
+      ],
+      "raw_graph_counts": {
+        "nodes": 2865,
+        "edges": 165161
+      },
+      "capped_training_graph_counts": {
+        "nodes": 2856,
+        "edges": 19642,
+        "node_types": 15,
+        "relation_types": 23
+      },
+      "capping_parameters": {
+        "encodes": 5000,
+        "associates_with": 5000,
+        "interacts_with": 5000,
+        "random_seed": 42
+      }
+    },
+    "rgcn_embeddings": {
+      "source_checkpoint": "/home/salman28/scratch/gut4heart/transformer_v2/out/aaai_out/rgcn_v06_verified_epoch375/entity_embeddings.npy",
+      "target_file": "data/kg/entity_embeddings.npy",
+      "dimension": 256,
+      "num_entities": 2856,
+      "validation_mrr": 0.0569,
+      "validation_hits_at_10": 0.0937,
+      "scale_norm_factor": 0.32
+    },
+    "vocabulary_and_bridge": {
+      "source_vocab": "/home/salman28/scratch/gut4heart/transformer_v2/vocab/genus_vocab.txt",
+      "source_bridge": "/home/salman28/scratch/gut4heart/transformer_v2/vocab/bridge.json",
+      "target_vocab": "data/vocab/genus_vocab.txt",
+      "target_bridge": "data/vocab/bridge.json",
+      "total_tokens": 1041,
+      "special_tokens": 4,
+      "genus_tokens": 1037,
+      "bridged_genera": 991,
+      "unbridged_genera": 46
+    },
+    "pretraining_corpus": {
+      "total_samples": 15255,
+      "sources": {
+        "American_Gut_Project": 9511,
+        "Human_Microbiome_Project": 748,
+        "MGnify": 2000,
+        "curatedMetagenomicData": 2996
+      },
+      "objective": "Factored Masked Microbiome Prediction (MMP) with Focal Loss",
+      "target_manifest": "data/manifests/datasets_manifest.json"
+    },
+    "checkpoints": {
+      "source_directory": "/home/salman28/scratch/gut4heart/transformer_v2/out/aaai_out/",
+      "target_manifest": "checkpoints/manifests/checkpoints_manifest.json",
+      "models": [
+        {
+          "name": "graph_init/best_model.pt",
+          "sha256": "3aa820cc8567119ff92d19f50e70c6347c6999b844ca15f16e4ee640ca2df61a",
+          "size_bytes": 21345914,
+          "parameters": 5148829
+        },
+        {
+          "name": "random_init/best_model.pt",
+          "sha256": "21994cd3c0a0c242c74d081e7d2358055628b05fcfece5336fbf18868840ca88",
+          "size_bytes": 20337850,
+          "parameters": 5148829
+        }
+      ]
+    },
+    "canonical_results": {
+      "incohort_fractions": {
+        "source_dir": "/home/salman28/scratch/gut4heart/transformer_v2/out/aaai_out/probe_percohort/",
+        "target_file": "results/canonical/incohort_fractions_results.json",
+        "cohorts": ["qin", "karlsson", "metacardis_t2d", "acvd", "metacardis_cvd"],
+        "fractions": [0.01, 0.02, 0.05, 0.25, 0.50, 1.00],
+        "seeds": 20
+      },
+      "loco_transfer": {
+        "source_dir": "/home/salman28/scratch/gut4heart/transformer_v2/out/aaai_out/loco/",
+        "target_file": "results/canonical/loco_transfer_results.json",
+        "pairs_count": 8,
+        "graph_wins": 7,
+        "known_counterexamples": ["metacardis_cvd_to_acvd"],
+        "seeds": 20
+      },
+      "shuffle_controls": {
+        "source_dir": "/home/salman28/scratch/gut4heart/transformer_v2/out/aaai_out/controls/",
+        "target_file": "results/canonical/shuffle_control_results.json"
+      },
+      "classical_baselines": {
+        "source_dir": "/home/salman28/scratch/gut4heart/transformer_v2/experiments/E4_nondegenerate_baselines/out/",
+        "target_file": "results/canonical/classical_baselines_results.json",
+        "models": ["intersection_rf", "zerofill_rf", "taxonomy_rf", "coral_rf"]
+      }
+    }
+  }
+}

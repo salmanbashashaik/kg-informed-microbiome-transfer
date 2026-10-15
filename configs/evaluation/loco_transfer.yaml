@@ -1,0 +1,21 @@
+# Leave-One-Cohort-Out (LOCO) Evaluation Configuration
+protocol:
+  freeze_backbone: true
+  freeze_embeddings: true
+  freeze_projection: true
+  n_seeds: 20
+  epochs: 50
+  lr: 0.001
+  batch_size: 64
+
+pairs:
+  t2d:
+    - {source: "qin", target: "karlsson"}
+    - {source: "karlsson", target: "qin"}
+    - {source: "qin", target: "metacardis"}
+    - {source: "metacardis", target: "qin"}
+    - {source: "karlsson", target: "metacardis"}
+    - {source: "metacardis", target: "karlsson"}
+  cvd:
+    - {source: "acvd", target: "metacardis_cvd"}
+    - {source: "metacardis_cvd", target: "acvd"}

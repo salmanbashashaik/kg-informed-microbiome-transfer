@@ -1,0 +1,22 @@
+# Classical Machine Learning Baselines Configuration
+baselines:
+  intersection_rf:
+    n_estimators: 500
+    n_seeds: 20
+    alignment: "shared_genus_intersection"
+
+  zerofill_rf:
+    n_estimators: 500
+    n_seeds: 20
+    alignment: "source_feature_zerofill"
+
+  taxonomy_rf:
+    n_estimators: 500
+    n_seeds: 20
+    alignment: "family_rank_collapsed"
+
+  coral_rf:
+    n_estimators: 500
+    n_seeds: 20
+    alignment: "correlation_alignment_whitening"
+    regularization: 1.0

@@ -1,0 +1,31 @@
+# Microbiome Transformer Pretraining Configuration
+model:
+  vocab_size: 1041
+  d_model: 256
+  n_heads: 8
+  n_layers: 6
+  d_ff: 1024
+  dropout: 0.1
+  norm_first: true
+  rgcn_dim: 256
+  freeze_proj: false
+
+data:
+  vocab_file: "data/vocab/genus_vocab.txt"
+  bridge_file: "data/vocab/bridge.json"
+  rgcn_emb_file: "data/kg/entity_embeddings.npy"
+  mask_nonzero_p: 0.30
+  mask_zero_p: 0.05
+  n_zero_per_sample: 50
+  bin_edges: [0.0, 1e-4, 1e-3, 1e-2]
+
+training:
+  batch_size: 32
+  lr: 1e-4
+  weight_decay: 0.01
+  warmup_steps: 1000
+  epochs: 10
+  presence_loss_weight: 0.3
+  bin_loss_weight: 0.7
+  focal_gamma: 2.0
+  seed: 42

@@ -1,0 +1,23 @@
+# Set default behavior to automatically normalize line endings
+* text=auto eol=lf
+
+# Explicit binary files
+*.npy binary
+*.pt binary
+*.bin binary
+*.png binary
+*.jpg binary
+*.pdf binary
+*.tar.gz binary
+*.zip binary
+
+# Documentation and code
+*.md text
+*.py text
+*.tsv text
+*.csv text
+*.json text
+*.yml text
+*.yaml text
+*.toml text
+*.cff text
